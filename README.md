@@ -1,6 +1,6 @@
 ## github-WoW
 
-Collection of documentation to support ways of working for our Github Organisation.  Please add to [open issues](https://github.com/nhsengland/github-WoW/issues) suggestions.
+Collection of documentation to support ways of working for our Github Organisation.  See [Github's documentation](https://docs.github.com/en) for most questions realting to the technical aspects of github - here we focus on applying these for our orgasniation. Please add to [open issues](https://github.com/nhsengland/github-WoW/issues) suggestions.
 
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 
