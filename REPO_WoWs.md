@@ -46,3 +46,6 @@ to support contributions being submitted in a standardised form you can include 
 ### contact
 Contact details in the README are useful but this often depends is an appropriate shared mailbox is avilable. 
 
+### branching strategy and pull requests 
+See TEAM_WoW.md for suggestion
+
