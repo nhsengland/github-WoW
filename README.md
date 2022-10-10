@@ -1,4 +1,4 @@
-## github-WoW
+## Github - Ways of Working
 
 Collection of documentation to support ways of working for our Github Organisation.  See [Github's documentation](https://docs.github.com/en) for most questions realting to the technical aspects of github - here we focus on applying these for our orgasniation. Please add to [open issues](https://github.com/nhsengland/github-WoW/issues) suggestions.
 
