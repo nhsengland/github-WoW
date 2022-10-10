@@ -4,6 +4,10 @@ Collection of documentation to support ways of working for our Github Organisati
 
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 
+### Open Source Policy
+
+See the draft NHS [Open Source Policy](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md#e-assurance-requirements) here.  This document discusses the What, When and How of open source code.
+
 ### License
 
 Unless stated otherwise, the codebase is released under [the MIT Licence][mit].
