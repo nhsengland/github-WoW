@@ -8,6 +8,15 @@ Collection of documentation to support ways of working for our Github Organisati
 
 See the draft NHS [Open Source Policy](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md#e-assurance-requirements) here.  This document discusses the What, When and How of open source code.
 
+### Repository Contents
+
+The three main files are held in 'docs'.  These are:
+- REPO_WoW.md
+- TEAM_WoW.md
+- ORG_WoW.md
+
+Alongside these are an example CODE_OF_CODUCT.md and a OPEN_CODE_CHECKLIST.md
+
 ### License
 
 Unless stated otherwise, the codebase is released under [the MIT Licence][mit].
