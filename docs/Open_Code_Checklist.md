@@ -3,7 +3,7 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 
 ## When publishing your code you need to make sure:
   
-### you’re clear about who owns the code and how others can use it
+### You’re clear about who owns the code and how others can use it
 
 - [ ] Does your code have an appropriate licence and copyright notice?  (**Mandatory**)
 - [ ] Is there a README and does it document intended purpose? (**Mandatory**)
