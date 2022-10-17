@@ -19,7 +19,7 @@ Alongside these are an example CODE_OF_CODUCT.md, OPEN_CODE_CHECKLIST.md, and Es
 
 ### Github - How we use it
 
-It is important to be aware of best practice when using github and making open code.  However, not every use-case requires all the suggested components and thus best practice needs to be balanced with pragmatism.  It is therefore key to consider how we use Github and to think through when we need to care about different best practice components.  Here are a few example incremental use cases to help think through but in reality in use-case needs to be considered individually by the developer. 
+It is important to be aware of best practice when using github and making open code.  However, not every use-case requires all the suggested components and thus best practice needs to be balanced with pragmatism.  Here are a few example incremental use cases, however in reality each use-case needs to be considered individually by the developer. 
 
 - **Use Case 1: Individual Exploration / Training** 
 To try out a new technique, piece of code or training for personal/team development.   Repo fully controlled by member with publication trusted to the member.   These projects would not be updated, managed or monitored but would expect to be clearly described and labelled to inform that this work is exploratory.  Main aim is to give the member flexibility to trial work and share examples easily.  \
