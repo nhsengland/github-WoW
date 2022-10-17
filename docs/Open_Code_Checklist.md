@@ -1,5 +1,5 @@
 # Open Code Checklist
-To ensure that the code we publish is appropraite, clear and reusable we require a set way of working when pushing code to private and public repoistories.  It is difficult to set any precise but generic standards and so we ask that the following checklist is considered with mandatroy items filled out. 
+To ensure that the code we publish is appropraite, clear and reusable we require a set way of working when pushing code to private and public repoistories.  It is difficult to set any precise but generic standards and so we ask that the following checklist is considered with mandatory items filled out. 
 
 ## When publishing your code you need to make sure:
   
@@ -11,7 +11,7 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 - [ ] Do you need to consider MHRA 'software as a medical device' guidance? (**Mandatory** - use [flowchart](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/999908/Software_flow_chart_Ed_1-08b-IVD.pdf))
 - [ ] Who has responsibility for ongoing support and communications for the code? (**Optional** Best practice to assign, else state the code is not maintained and when the last update was)
 - [ ] Has a responsible disclosure process for security issues been defined? (**Mandatory** - could use github issues)
-- [ ] Who will address identified issues and security concerns? (**Mandatory**. - assign monitoring of above disclosure process)
+- [ ] Who will identified issues and security concerns be addressed? (**Mandatory**. - assign monitoring of above disclosure process)
 - [ ] Has semantic versioning been used? (**Optional**) 
 - [ ] Have [contribution guidelines](https://github.com/alphagov/govuk-frontend/blob/master/CONTRIBUTING.md) or [PR style guides](https://github.com/alphagov/styleguides/blob/master/pull-requests.md) been included? (**Optional**)
 - [ ] Are package dependencies and libaries documented with versions? (**Optional**)
@@ -21,7 +21,7 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 - [ ] Does the code include any sensitive, personal, secret or top secret data/information? (**Mandatory**)
 - [ ] Does the code include any unreleased policy? (**Mandatory**)
 - [ ] Does the code include business sensitive algorithms (e.g. finance allocations)? (**Mandatory**)
-- [ ] Has written permission been obtained for any data stored from the data owner? (**Mandatory**)
+- [ ] Has written permission from the data owner been obtained for any data stored in the repo? (**Mandatory**)
 - [ ] Are any data transfers conducted safely and securely? (**Mandatory**)
 - [ ] Are any credentials contained in the source code? (**Mandatory** - check in both current version and git history)
 - [ ] Are any secret keys contained in the source code? (**Mandatory** - check in both current version and git history)
@@ -33,7 +33,7 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 
 ### You store it in a repository managed by your department (to make licensing/copyright clear)
 
-- [ ] Is the code version controlled using GIT or similar? (**Optional**)
+- [ ] Is the code version controlled using "Git" or similar? (**Optional**)
 - [ ] Is the code stored in your organisational GitHub account? Is it the same organisation that funds the relevant staff time? (**Optional**)
 
 ### Any third-party tools you use to host or manage your code follow the National Cyber Security Centre’s cloud security guidance
@@ -45,4 +45,4 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 
 - [ ] Has a colleague reviewed the code for sensitive data content and security vulnerabilities? (**Mandatory** - Best practice is to record automated code quality and security tools used)
 - [ ] Has a code quality review been completed focussing on the end usability and clarity? (**Optional** - consider runing through the [example](https://best-practice-and-impact.github.io/qa-of-code-guidance/checklist_higher.html) or similar code quality checklist)
-- [ ] Has the code been assessed for its [level or RAP](https://github.com/NHSDigital/rap-community-of-practice/blob/main/what_is_RAP/levels_of_RAP.md)(Reproducible Analytical Pipeline)?
+- [ ] Has the code been assessed for its [level of RAP](https://nhsdigital.github.io/rap-community-of-practice/introduction_to_RAP/levels_of_RAP/)(Reproducible Analytical Pipeline)?
