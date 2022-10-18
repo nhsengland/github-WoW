@@ -1,13 +1,13 @@
 # Escalation Procedure
 
-In the event of an individual breakinng the code of conduct you should inform the organisation owner in order that action can be taken. 
+In the event of an individual breaking the code of conduct you should inform the organisation owner in order that action can be taken. 
 
 ### Assume accidental publications are compromised
 
-Whilst secrets and sentive data should never be made public, we must assume that this will happen at some point.  See the [Open Source Policy](https://github.com/nhsx/open-source-policy/edit/main/open-source-policy.md) for guidance aorund what code should be made open and what should remian closed. Once a secret or other sensitive data has been published, you must assume that it is compromised no matter how quickly you are able to remove it.
+Whilst secrets and sentive data should never be made public, we must assume that this will happen at some point.  See the [Open Source Policy](https://github.com/nhsx/open-source-policy/edit/main/open-source-policy.md) for guidance around what code should be made open and what should remain closed. Once a secret or other sensitive data has been published, you must assume that it is compromised no matter how quickly you are able to remove it.
 
 - If you accidentally publish a secret, you must revoke it and immediately provision new keys to the system.  You should also let the organisation owner know of the breach and any asset owners of compromised resources.
-- If data has been leaked the contact <england.ig-corporate@nhs.net> immediately. 
+- If data has been leaked, **contact <england.ig-corporate@nhs.net> immediately**. 
 
 ### Deal with security vulnerabilities
 

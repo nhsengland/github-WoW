@@ -19,35 +19,35 @@ Alongside these are an example CODE_OF_CODUCT.md, OPEN_CODE_CHECKLIST.md, and Es
 
 ### Github - How we use it
 
-It is important to be aware of best practice when using github and making open code.  However, not every use-case requires all the suggested components and thus best practice needs to be balanced with pragmatism.  It is therefore key to consider how we use Github and to think through when we need to care about different best practice components.  Here are a few example incremental use cases to help think through but in reality in use-case needs to be considered individually by the developer. 
+It is important to be aware of best practice when using github and making open code.  However, not every use-case requires all the suggested components and thus best practice needs to be balanced with pragmatism.  Here are a few example incremental use cases, however in reality each use-case needs to be considered individually by the developer. 
 
 - **Use Case 1: Individual Exploration / Training** 
 To try out a new technique, piece of code or training for personal/team development.   Repo fully controlled by member with publication trusted to the member.   These projects would not be updated, managed or monitored but would expect to be clearly described and labelled to inform that this work is exploratory.  Main aim is to give the member flexibility to trial work and share examples easily.  \
 **Scrutiny required -** Only public or fake data used in public repos.  Possible use of simple io template or link to google collab to present visualisation and learning.  For this use case we need to focus on NHS values, ensuring no information is released that should remain closed and project level assignment.
 
 - **Use Case 2: Internal Code Sharing** 
-To try out a new technique, piece of code or training for personal/team development.  Additionally, use of real world data and sharing across the team for demonstrating/prototyping and learning.    Members need to be able to quickly share the code but as the data is now possibly sensitive, no public sharing is expected.  If the project is to progress to a managed or public element then a migration to a new repo is expected. \
-**Scrutiny required -** Sensitive data maybe used here and so Private repos with clear review process if there is a desire to make the repo public at a later stage.  For this use case we need to focus all the points from use case 1 and that the readme is clear and that the repo is stored in the organisation github rather than a personal one.
+To try out a new technique, piece of code or training for personal/team development.  Additionally, use of real world data and sharing across the team for demonstrating/prototyping and learning.    Members need to be able to quickly share the code, but as this has been run against possibly sensitive data, no public, no public sharing is expected.  If the project is to progress to a managed or public element then a migration to a new repo is expected. \
+**Scrutiny required -** This code may have been run against sensitive data and elements of that might have been embedded in the code or files, and so Private repos are necessary with a clear review process if there is a desire to make the repo public at a later stage.  For this use case we need to focus all the points from use case 1 and that the readme is clear and that the repo is stored in the organisation github rather than a personal one.
 
 - **Use Case 3: Pre-release Code Sharing** 
 To develop a piece of work towards open sharing but which requires testing before release.  Members need quick access to allow for the interactive development.  Expectation on applying best practice from the beginning where possible but use of non-sensitive data protects the repo if later published.  Migration to a fully monitored pipeline before sensitive data brought in. \
-**Scrutiny required -** Non-sensitive, public of fake data used.  Private repo with intension of eventually moving to use case 4: external code sharing and so time needs to be spent on best practice at this stage.  For this use case we need to focus all the points from use case 1 and 2 and clear contribution guidelines, license and any regulatory requirements checked.
+**Scrutiny required -** Non-sensitive, public or fake data used.  Private repo with intension of eventually moving to use case 4: external code sharing and so time needs to be spent on best practice at this stage.  For this use case we need to focus all the points from use case 1 and 2 and clear contribution guidelines, license and any regulatory requirements checked.
 
 - **Use Case 4: External Code Sharing** 
-To provide a hosted code for Proof of Concepts, Alpha, Beta versions of small projects or training/demonstration resources.  Usage of non sensitive data allows member to publish without full sign-off.  Main aim is collaboration and so clarity and best practice expected.  Repo would be lightly managed (monitored but not updated regularly). \
-**Scrutiny required -** Non-senstive, public of fake data so a public repo with example notebooks would be acceptable.  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
+To provide a hosted code for Proof of Concepts, Alpha, Beta versions of small projects or training/demonstration resources.  Usage of non-sensitive data allows member to publish without full sign-off.  Main aim is collaboration and so clarity and best practice expected.  Repo would be lightly managed (monitored but not updated regularly). \
+**Scrutiny required -** Non-senstive, public or fake data so a public repo with example notebooks would be acceptable.  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code.
 
 - **Use Case 5: Public Hosting of Proof of Concept** 
 To host analysis on a server for others to interact with and use.  Purpose is to demonstrate, support and advertise.  Repo needs to be controlled and owned to support issues and users.  Relatively light touch as updates expected to be rare.  Needs connections to external apps with admin permissions.  Sign-off for publication required. \
-**Scrutiny required -** Non-senstive, public of fake data.  Any sensitive data required would need to be behind a secure barrier in a corporately managed service.  A public repo attached to collaborative hosting services such as streamlit, RShiny, etc..  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
+**Scrutiny required -** Non-senstive, public or fake data.  Any sensitive data required would need to be behind a secure barrier in a corporately managed service.  A public repo attached to collaborative hosting services such as streamlit, RShiny, etc..  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
 
 - **Use Case 6: Product Pipelines** 
 To manage pipelines in a collaborative controlled environment.  Fully managed and monitored repos.  Version control with full branching strategy needed.  Purpose is to provide CI/CD environment.  For corporate tools this should be handled in Azure DevOps. \
 **Scrutiny required -** Mix of public and sensitive data and so both public and private repos used for methods and config files respectively.   IO pages such as 'read the docs' used to describe work.  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
 
 - **Use Case 7: Showcasing work** 
-Use of github to build public facing website with technical non-sensitive projects and discussions.  As public facing content needs to be fully signed-off with updates properly managed.  Non sensitive data used but as the space is used for showcasing then need to keep an eye on policy and comms breaches. \
-**Scrutiny required -** Public of fake data only with public repo and IO site.  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
+Use of github to build public facing website with technical non-sensitive projects and discussions.  As public facing content needs to be fully signed-off with updates properly managed.  Non-sensitive data used but as the space is used for showcasing then need to keep an eye on policy and comms breaches. \
+**Scrutiny required -** Public or fake data only with public repo and IO site.  For this use case we need to focus on all best practice and ensuring we are creating safe, useable code
 
 
 ### License
