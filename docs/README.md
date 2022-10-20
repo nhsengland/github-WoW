@@ -1,4 +1,4 @@
-**Public view **
+**Public view**
 
 <img src='assets/NHSEnglandLogoHighRes.jpg' width='500'>
 
@@ -15,8 +15,7 @@ Read our Code of Conduct for contributions [HEre](LINK to CoC)
 \
 
 
-**Member view **
-
+**Member view**
 
 <img src='assets/NHSEnglandLogoHighRes.jpg' width='500'>
 
