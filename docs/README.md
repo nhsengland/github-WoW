@@ -1,16 +1,24 @@
-** Public view **
+**Public view **
 
-[NHS England Logo](/docs/NHS England Logo High Res.jpg)
+<img src='assets/NHSEnglandLogoHighRes.jpg' width='500'>
 
 This is the organisational github account for NHS England.  See [NHS England's](https://www.england.nhs.uk/) website for information about who we are and our work.
 
 Read our Code of Conduct for contributions [HEre](LINK to CoC)
 
+\
+\
+\
+\
+\
+\
+\
 
-** Member view **
+
+**Member view **
 
 
-[NHS England Logo](/docs/NHS England Logo High Res.jpg)
+<img src='assets/NHSEnglandLogoHighRes.jpg' width='500'>
 
 This is the organisational github account for NHS England.  We aim for github to be used to support collaborative and open work for both development and analytics.  
 
