@@ -4,7 +4,7 @@
 
 This is the organisational github account for NHS England.  See [NHS England's](https://www.england.nhs.uk/) website for information about who we are and our work.
 
-Read our Code of Conduct for contributions [HEre](LINK to CoC)
+Read our Code of Conduct for contributions [Here](Link to CodeOfConduct)
 
 \
 \
