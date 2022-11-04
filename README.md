@@ -52,7 +52,7 @@ Use of github to build public facing website with technical non-sensitive projec
 
 ### License
 
-Unless stated otherwise, the codebase is released under [the MIT Licence][mit].
+Unless stated otherwise, the codebase is released under [the MIT Licence](https://opensource.org/licenses/MIT).
 This covers both the codebase and any sample code in the documentation.
 
 _See [LICENSE](./LICENSE) for more information._
