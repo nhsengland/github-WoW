@@ -49,5 +49,5 @@ To ensure that the code we publish is appropraite, clear and reusable we require
 
 - [ ] Has a colleague reviewed the code for sensitive data content and security vulnerabilities? (**Mandatory** - Best practice is to record automated code quality and security tools used)
 - [ ] Has a code quality review been completed focussing on the end usability and clarity? (**Optional** - consider runing through the [example](https://best-practice-and-impact.github.io/qa-of-code-guidance/checklist_higher.html) or similar code quality checklist)
-- [ ] Has the code been assessed for its [level or RAP](https://github.com/NHSDigital/rap-community-of-practice/blob/main/what_is_RAP/levels_of_RAP.md)(Reproducible Analytical Pipeline)? (**Optional**)
+- [ ] Has the code been assessed for its [levels of RAP](https://github.com/NHSDigital/rap-community-of-practice/blob/main/docs/introduction_to_RAP/levels_of_RAP.md) (Reproducible Analytical Pipeline)? (**Optional**)
 - [ ] Has the code undergone some level of testing.  The level of teting required will depend on the specific code and use-case but as minimum it should work in a fresh environment with arteficial data. (**Optional**)
