@@ -10,12 +10,13 @@ See the draft NHS [Open Source Policy](https://github.com/nhsx/open-source-polic
 
 ### Repository Contents
 
-The three main files are held in 'docs'.  These are:
+The three main files are held in 'docs'. 
 - REPO_WoW.md
 - TEAM_WoW.md
 - ORG_WoW.md
+These set out ways of working for repo owners, team maintainers and organisation owners.
 
-Alongside these are an example CODE_OF_CODUCT.md, OPEN_CODE_CHECKLIST.md, and Escalation.md
+Alongside these are example OPEN_CODE_CHECKLIST.md, and Escalation.md
 
 ### Github - How we use it
 
