@@ -4,6 +4,18 @@ Collection of documentation to support ways of working for our Github Organisati
 
 [![status: active](https://github.com/GIScience/badges/raw/master/status/active.svg)](https://github.com/GIScience/badges#active)
 
+Reflecting the risk that may be present when using GitHub, the following principles must be respected:
+
+- Sensitive data should not appear on GitHub.
+- Never share secrets through GitHub:
+  - private keys should never leave the machine on which they are generated.
+    - access tokens and passwords should be stored securley and separately.
+    - personal credentials must not be shared.
+    - Other secrets must be stored in appropriate secret managers.
+- Never share Live/Production data through GitHub.
+- Public/Synthetic/Artificial/Test data should be used for testing of services and labelled clearly
+- Contributors should be aware of the impact of any comments or Readme files. Comments and Readme files in GitHub are not official communications and do not go through the normal approval process for public communications. They can however still be interpreted as NHSE communication, even if not intended as such, particularly in the case of repositories that are visible publicly. Contributors to repositories should consider the content of readme files and comments within the code and ensure that we avoid anything that could be considered a statement on approach/policy.
+
 ### Open Source Policy
 
 See the draft NHS [Open Source Policy](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md#e-assurance-requirements) here.  This document discusses the What, When and How of open source code.
